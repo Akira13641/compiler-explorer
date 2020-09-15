@@ -1,5 +1,7 @@
 unit output;
 
+{$mode ObjFPC}
+
 interface
 
 function Square(const num: Integer): Integer;
