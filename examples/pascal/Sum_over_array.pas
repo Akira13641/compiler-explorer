@@ -1,5 +1,7 @@
 unit output;
 
+{$mode ObjFPC}
+
 interface
 
 function SumOverArray(const Input: array of Integer): Integer;
