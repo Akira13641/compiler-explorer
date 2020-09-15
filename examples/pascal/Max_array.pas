@@ -1,5 +1,7 @@
 unit output;
 
+{$mode ObjFPC}
+
 interface
 
 procedure MaxArray(var X: array of Double; const Y: array of Double);
